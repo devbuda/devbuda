@@ -1,6 +1,6 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hello! How is it going?
 
-<p>I'm Victor, developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Manaus, Amazonas - Brazil</b>. </p>
+<p>I'm Victor, developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Manaus, Amazonas - Brazil</b>. <br> I'm super enthusiastic about new technologies, I use them to build cool things, I adapt easily to any project and I'm looking for someone to contribute.</p>
 
 ### 🧐 More About Me:
 
