@@ -5,10 +5,10 @@
 ### 👾 More About Me:
 
 - 🔭 &nbsp;I’m currently working on something cool
-- 🌱 &nbsp;I’m currently learning Javascript/Typescript/Python
+- 🌱 &nbsp;I’m currently learning Javascript | Typescript | Python
 - 💬 &nbsp;Ask me about anything tech related, I am happy to help
 - 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/victorfreire2022/)
-- 📚 &nbsp;Tech enthusiast with indisputable opinions.
+- 📚 &nbsp;Tech enthusiast with indisputable opinions
 
 ### 🔨 Languages and Tools: 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
